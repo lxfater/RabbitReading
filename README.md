@@ -3,4 +3,4 @@
 # 使用说明
 ![运行截图](https://raw.githubusercontent.com/lxfater/RabbitReading/main/screenshot/m.png)
 # 使用方式
-release
+见Releases
